@@ -30,6 +30,17 @@ NordFreight is a fictional company, and its text and numbers are only for the de
 - **Performance and hosting:** 3D models optimized for mobile, your own domain, a CDN and CI/CD
 
 📩 **Telegram: [@vsergeserge](https://t.me/vsergeserge)**: describe your project, and I'll get back to you with ideas, a timeline and an estimate.
+
+## Author
+
+Designed and developed by **Serge Vei**.
+
+- 💼 Portfolio: [sergevei.github.io](https://sergevei.github.io/)
+- 💬 Telegram: [@vsergeserge](https://t.me/vsergeserge)
+
+## Project structure
+
+| File | Purpose |
 |---|---|
 | `index.html` | The whole site (minified HTML, CSS and JS) |
 | `favicon.ico`, `favicon.svg`, `apple-touch-icon.png` | Browser and iOS icons |
@@ -41,4 +52,4 @@ NordFreight is a fictional company, and its text and numbers are only for the de
 
 ---
 
-© Siarhei Vei. For a custom version or integration, contact me on [Telegram @vsergeserge](https://t.me/vsergeserge).
+© 2026 [Serge Vei](https://sergevei.github.io/). For a custom version or integration, contact me on [Telegram @vsergeserge](https://t.me/vsergeserge).
