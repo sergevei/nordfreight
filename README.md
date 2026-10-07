@@ -1,6 +1,6 @@
 # NordFreight: interactive 3D landing page for a logistics company
 
-**[▶ Live demo](https://sergevei.github.io/nordfreight/)** · [Deutsch](https://sergevei.github.io/nordfreight/?lang=de) · [Русский](https://sergevei.github.io/nordfreight/?lang=ru)
+**[🌐 Live demo](https://sergevei.github.io/nordfreight/)** · **[▶ Video on YouTube](https://youtu.be/4spVppIer24)** · [Deutsch](https://sergevei.github.io/nordfreight/?lang=de) · [Русский](https://sergevei.github.io/nordfreight/?lang=ru)
 
 [![NordFreight preview](desktop_preview.jpg)](https://sergevei.github.io/nordfreight/)
 
