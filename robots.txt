@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sergevei.github.io/nordfreight/sitemap.xml
