@@ -2,7 +2,7 @@
 
 **[▶ Live demo](https://sergevei.github.io/nordfreight/)** · [Deutsch](https://sergevei.github.io/nordfreight/?lang=de) · [Русский](https://sergevei.github.io/nordfreight/?lang=ru)
 
-[![NordFreight preview](og-image.jpg)](https://sergevei.github.io/nordfreight/)
+[![NordFreight preview](desktop_preview.jpg)](https://sergevei.github.io/nordfreight/)
 
 NordFreight is a one-page website for a freight forwarding company. As you scroll, a 3D camera takes you through the company's network: the hub, fleet, rail, warehousing, cold chain, sea and air freight. It's built with Three.js and needs no build step or dependencies.
 
